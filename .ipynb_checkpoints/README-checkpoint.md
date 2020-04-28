@@ -1,5 +1,13 @@
-# Regression, Classification and Partial-Dependence Plots
+# Case study: Salary vs Education
 
-In this notebook, we study a simple dataset and construct both linear and logistic regression predictive models. We explain their performance using several metrics and, in particular, <a href='https://scikit-learn.org/stable/auto_examples/inspection/plot_partial_dependence.html#id1'> partial-dependence plots</a>.
+__EDA, linear and logistic regression, and partial-dependence plots.__ 
 
-##### HR
+Construction and analyses of supervised learning models for a data set with numerical and categorical values.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hectoramirez/StockMarketPrices/master?filepath=StockMarketPrices.ipynb)
+![SL](https://img.shields.io/badge/%20-Supervised%20Learning-informational)
+![PDP](https://img.shields.io/badge/%20-Partial--Dependence%20plots-green)
+
+![ROC](roc.png)
+
+---
